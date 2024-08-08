@@ -1,5 +1,6 @@
 ## About me: 
-👋 Hi, My name is Ivan Generalov. I'm begginer QA Engineer 
+👋 Hi, My name is Ivan Generalov. I'm begginer QA Engineer.
+
 I'm living in Moscow, Russia. 30+ years old.</h>
 
 I love: 
