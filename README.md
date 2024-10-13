@@ -14,6 +14,9 @@ Films and TV series 🎥
 <hr>  
 
 ![Static Badge](https://img.shields.io/badge/Pytest-black?logo=pytest&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=hex&logoSize=auto)
+
+
 <image src="https://www.wireshark.org/assets/img/wireshark-logo.png">
 <!---
 Kitamo322/Kitamo322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
